@@ -1,0 +1,84 @@
+#page1 {
+  background-image: url("https://payload.cargocollective.com/1/22/707030/12061482/pinker_670.jpg");
+  background-size: 1600px 1100px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+#page2 {
+  background-image: url("https://www.publicdomainpictures.net/pictures/300000/nahled/agate-grey-color.jpg");
+  background-size: 1600px 1100px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+#page3 {
+  background-image: url("https://www.deco-k-in.com/7890-large_default/bleu-ciel-sur-mesure.jpg");
+  background-size: 1600px 1100px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+#paragraphe {
+ color: slateblue;
+ font-size: 30px;
+}
+#hi {
+  background-size: 1600px 1100px;
+  background-position: center;
+}
+#git {
+  width;300px;
+  height:300px;
+}
+.btn-group button {
+  background-color: white;
+  padding: 5px 5px;
+}
+/**.btn-group button {
+  background-color: white;
+  background-position: right;
+  text-align: right;
+}
+**/
+  .cont {
+    background-color: grey;
+    color:white;
+    font-size: 50px;
+  }
+  .prj {
+    background-color: grey;
+    color :white;
+    font-size:50px ;
+  }
+  .prf {
+    background-color: grey;
+    color:white;
+    font-size: 50px;
+  }
+  .hi {
+    color: slateblue;
+    font-size: 90px;
+    text-align: centre;
+    margin:50px 10px 0px 300px;
+  }
+  .about {
+    border-color: blue;
+    color:blue;
+  }
+  .project {
+    border-color:blue;
+    color: blue;
+  }
+  .contact {
+    border-color: blue;
+    color:blue;
+  }
+  #elie {
+    color:grey;
+    font-size: 50px;
+  }
+  #ali {
+    color: grey;
+    font-size: 50px;
+  }
