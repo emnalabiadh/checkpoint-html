@@ -1,19 +1,25 @@
 #page1 {
-  background-image: url("https://payload.cargocollective.com/1/22/707030/12061482/pinker_670.jpg");
+  /*background-image: url("https://payload.cargocollective.com/1/22/707030/12061482/pinker_670.jpg");
+  */
+  background-color: pink;
   background-size: 1600px 1100px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
 }
 #page2 {
-  background-image: url("https://www.publicdomainpictures.net/pictures/300000/nahled/agate-grey-color.jpg");
+  /*background-image: url("https://www.publicdomainpictures.net/pictures/300000/nahled/agate-grey-color.jpg");
+  */
+  background-color: grey;
   background-size: 1600px 1100px;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
 }
 #page3 {
-  background-image: url("https://www.deco-k-in.com/7890-large_default/bleu-ciel-sur-mesure.jpg");
+  /*background-image: url("https://www.deco-k-in.com/7890-large_default/bleu-ciel-sur-mesure.jpg");
+  */
+  background-color: lightblue;
   background-size: 1600px 1100px;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -22,6 +28,7 @@
 #paragraphe {
  color: slateblue;
  font-size: 30px;
+ font: "Roboto"
 }
 #hi {
   background-size: 1600px 1100px;
@@ -33,14 +40,13 @@
 }
 .btn-group button {
   background-color: white;
-  padding: 5px 5px;
+  padding: 20px 20px;
+  float: right;
+  text-align:left;
+  font: 'Roboto'
 }
-/**.btn-group button {
-  background-color: white;
-  background-position: right;
-  text-align: right;
-}
-**/
+
+
   .cont {
     background-color: grey;
     color:white;
